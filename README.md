@@ -71,8 +71,5 @@ Projects and Labs compeleted in CIT281
 - Gain experience working with GitHub Pages
 - Create an initial CIT Minor portfolio for your labs and projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-theme: jekyll-theme-cayman 
+This course was a great introduction to the world of computer information technology! I will keep expanding my knowledge on thids topic in the next couple of terms.
 
