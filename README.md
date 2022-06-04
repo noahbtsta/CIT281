@@ -30,7 +30,7 @@ Projects and Labs compeleted in CIT281
 - Gain experience using Fastify with the GET verb, routes, and query parameters
 - Gain experience loading a file and using as a web page
 
-[Link more info on project]([url](https://noahbtsta.github.io/CIT281_p3/))
+[Link more info on project](https://noahbtsta.github.io/CIT281_p3/)
 
 ### Project 4
 - Gain experience interpreting functional descriptions and specifications to complete an assignment
@@ -43,7 +43,7 @@ Projects and Labs compeleted in CIT281
 - Gain experience using Postman to test web server routes
 - Gain experience working with JSON
 
-[Link more info on project]([url](https://noahbtsta.github.io/CIT281_p4/))
+[Link more info on project](https://noahbtsta.github.io/CIT281_p4/)
 
 ### Project 5
 - Gain experience working with classes, including class constructors and methods
@@ -62,7 +62,7 @@ Projects and Labs compeleted in CIT281
 - Gain experience working with Visual Studio Code (VSCode)
 - Gain experience writing and executing non-web server Node.js JavaScript code
 
-[Link more info on project]([url](https://noahbtsta.github.io/CIT281_p6/))
+[Link more info on project](https://noahbtsta.github.io/CIT281_p6/)
 
 ### Project 7
 - Gain more experience working with GitHub repos
