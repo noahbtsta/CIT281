@@ -115,7 +115,7 @@ Projects and Labs compeleted in CIT281
 
 [Link more info on Lab](url)
 
-###n Lab 8
+### Lab 8
 - Installation of software and computer setup
 
 [Link more info on Lab](url)
