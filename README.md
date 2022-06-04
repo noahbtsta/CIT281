@@ -75,55 +75,61 @@ Projects and Labs compeleted in CIT281
 ### Lab 1
 - Installation of software and computer setup
 
-[Link more info on Lab](url)
+[Link more info on Lab](https://noahbtsta.github.io/CIT281_L1/)
 
 ### Lab 2
 - Understanding CLI commands 
 - Using CLI for git commands
 - Gain experience with git respositories, gitignore, cloning 
 
-[Link more info on Lab](url)
+[Link more info on Lab](https://noahbtsta.github.io/CIT281_L2/)
 
 ### Lab 3
 - Practice refactoring JavaScript code to use more modern syntax
 - Practice destructuring an object
 - Practice creating a Node.js compatible code module using module.exports
 
-[Link more info on Lab](url)
+[Link more info on Lab](https://noahbtsta.github.io/CIT281_L3/)
+
 
 ### Lab 4
 - Create Fastify for Node.js web server
 - Experience with Node.js and Node Package Manager
 - Understanding MIMI errors and refactoring code
 - 
-[Link more info on Lab](url)
+[Link more info on Lab](https://noahbtsta.github.io/CIT281_L4/)
 
 ### Lab 5
 - Understanding how to create query collections, server routes, and requests in Postman application
 
-[Link more info on Lab](url)
+[Link more info on Lab](https://noahbtsta.github.io/CIT281_L5/)
+
 
 ### Lab 6
 - Practice with Github and cloneing collaborative code
 - Understanding how Classes work 
 - Creating and testing Classes
 
-[Link more info on Lab](url)
+[Link more info on Lab](https://noahbtsta.github.io/CIT281_L6/)
+
 
 ### Lab 7
 - Created a Github organization for the CIT minor
 
-[Link more info on Lab](url)
+[Link more info on Lab](https://noahbtsta.github.io/CIT281_L7/)
+
 
 ### Lab 8
 - Installation of software and computer setup
 
-[Link more info on Lab](url)
+[Link more info on Lab](https://noahbtsta.github.io/CIT281_L8/)
+
 
 ### Lab 9
 - Create Learning Lab course/repo within your GitHub account
 
-[Link more info on Lab](url)
+[Link more info on Lab](https://noahbtsta.github.io/CIT281_L9/)
+
 
 This course was a great introduction to the world of computer information technology! I will keep expanding my knowledge on thids topic in the next couple of terms.
 
