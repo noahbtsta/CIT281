@@ -18,7 +18,7 @@ Projects and Labs compeleted in CIT281
 - Gain experience writing and executing non-web server Node.js JavaScript code
 - Practice refactoring JavaScript code
 
-[Link more info on project]([url](https://noahbtsta.github.io/CIT281_p2/)
+[Link more info on project](https://noahbtsta.github.io/CIT281_p2/)
 
 ### Project 3
 - Gain experience interpreting functional descriptions and specifications to complete an assignment
