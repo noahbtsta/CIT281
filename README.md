@@ -11,7 +11,7 @@ Projects and Labs compeleted in CIT281
 - Gain experience working with Visual Studio Code (VSCode)
 - Gain experience writing and executing non-web server Node.js JavaScript code
 
-[Link more info on project](url)
+[Link more info on project](CIT281_p1.md)
 
 ### Project 2
 - Gain experience using git via your CLI and Visual Studio Code (VSCode) Source Control
