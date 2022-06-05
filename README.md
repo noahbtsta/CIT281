@@ -69,8 +69,9 @@ Projects and Labs compeleted in CIT281
 - Gain experience working with GitHub Pages
 - Create an initial CIT Minor portfolio for your labs and projects
 
+[Link more info on project](https://noahbtsta.github.io/CIT281_p7/)
 
-#Labs
+# Labs
 
 ### Lab 1
 - Installation of software and computer setup
